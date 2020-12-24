@@ -11,4 +11,7 @@ https://github.com/JessYanCoding/AndroidAutoSize
 你真的想不到日历居然还可以如此优雅！:
 https://github.com/huanghaibin-dev/CalendarView
 
+#一款容易接入、功能强大的 Android TabLayout 库。只是很长时间没更新和维护了，有兴趣的小伙伴可以 fork 把它重新维护起来:
+https://github.com/H07000223/FlycoTabLayout
+
 
