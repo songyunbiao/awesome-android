@@ -7,9 +7,6 @@ https://hellogithub.com/
 #学习成本极低的 Android 屏幕适配方案，已被知名 APP 用于线上产品:
 https://github.com/JessYanCoding/AndroidAutoSize
 
-#Android上一个优雅、万能自定义UI、支持周视图、自定义周起始、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，
-你真的想不到日历居然还可以如此优雅！:
-https://github.com/huanghaibin-dev/CalendarView
 
 #一款容易接入、功能强大的 Android TabLayout 库。只是很长时间没更新和维护了，有兴趣的小伙伴可以 fork 把它重新维护起来:
 https://github.com/H07000223/FlycoTabLayout
@@ -29,8 +26,14 @@ https://github.com/getActivity/ToastUtils
 #Android 权限请求框架，已适配 Android 11：
 https://github.com/getActivity/EasyHttp
 
+# 日历
+#Android上一个优雅、万能自定义UI、支持周视图、自定义周起始、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，
+你真的想不到日历居然还可以如此优雅！:
+https://github.com/huanghaibin-dev/CalendarView
+
 #android日历收集demo：
 https://github.com/dalong982242260/AndroidCalendar
+
 # banner
 #🔥🔥🔥Banner 2.0 来了！Android广告图片轮播控件，内部基于ViewPager2实现，Indicator和UI都可以自定义。
 https://github.com/youth5201314/banner
