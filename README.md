@@ -31,3 +31,11 @@ https://github.com/getActivity/EasyHttp
 
 #android日历收集demo：
 https://github.com/dalong982242260/AndroidCalendar
+# banner
+#🔥🔥🔥Banner 2.0 来了！Android广告图片轮播控件，内部基于ViewPager2实现，Indicator和UI都可以自定义。
+https://github.com/youth5201314/banner
+
+#仿魅族BannerView,图片轮播控件,支持多种模式切换：普通ViewPager使用，普通Banner使用，仿魅族Banner使用。
+https://github.com/pinguo-zhouwei/MZBannerView
+
+
