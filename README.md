@@ -22,3 +22,9 @@ https://github.com/zion223/NeteaseCloudMusic
 
 #🔥基于 Kotlin 语言仿写「开眼 Eyepetizer」的一个短视频 Android 客户端项目，采用 Jetpack + 协程实现的 MVVM 架构:
 https://github.com/VIPyinzhiwei/Eyepetizer
+
+#Android 吐司框架，专治 Toast 各种疑难杂症：
+https://github.com/getActivity/ToastUtils
+
+#Android 权限请求框架，已适配 Android 11：
+https://github.com/getActivity/EasyHttp
