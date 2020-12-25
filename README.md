@@ -37,7 +37,6 @@ https://github.com/youth5201314/banner
 https://github.com/pinguo-zhouwei/MZBannerView
 
 # 微信视频裁剪
-
 #仿微信朋友圈10秒视频编辑上传
 https://github.com/kui92/WXVideoEditt
 
@@ -47,6 +46,10 @@ https://github.com/shaopx/VideoClipEditViewTest
 #Visiting WeChat trimmer & compressor video view
 https://github.com/cjiahuan/TrimmerVideoView
 
+# 图片水印
+
+#轻量级图片水印框架
+https://github.com/huangyz0918/AndroidWM
 
 # 其他
 #一个不需要连接电脑、非侵入式的 Android 自动化工具。公测版拥有录制回放、性能测试、一机多控三项主要功能，能为测试开发人员节省宝贵时间。安卓版本多、终端型号多，一个成熟安卓应用的上线需要进行大量测试，而很多测试都是属于重复操作，通过此工具可以极大简化测试人员的工作量
