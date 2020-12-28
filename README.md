@@ -49,6 +49,9 @@ https://github.com/shaopx/VideoClipEditViewTest
 
 #Visiting WeChat trimmer & compressor video view
 https://github.com/cjiahuan/TrimmerVideoView
+# 其他控件
+包含多个自定义View的例子，从易到难【时钟、课程表】： 
+https://github.com/leavesC/CustomView
 
 # 图片水印
 
