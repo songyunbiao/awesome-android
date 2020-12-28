@@ -36,6 +36,10 @@ https://github.com/youth5201314/banner
 #仿魅族BannerView,图片轮播控件,支持多种模式切换：普通ViewPager使用，普通Banner使用，仿魅族Banner使用。
 https://github.com/pinguo-zhouwei/MZBannerView
 
+# 倒计时
+#Android倒计时控件，使用Canvas绘制，支持多种样式：
+https://github.com/iwgang/CountdownView
+
 # 微信视频裁剪
 #仿微信朋友圈10秒视频编辑上传
 https://github.com/kui92/WXVideoEditt
