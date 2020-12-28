@@ -40,6 +40,9 @@ https://github.com/pinguo-zhouwei/MZBannerView
 #Android倒计时控件，使用Canvas绘制，支持多种样式：
 https://github.com/iwgang/CountdownView
 
+# 数字翻转
+一个数字翻转的库【时钟显示】： https://github.com/xenione/tab-digit
+
 # 微信视频裁剪
 #仿微信朋友圈10秒视频编辑上传
 https://github.com/kui92/WXVideoEditt
@@ -49,6 +52,7 @@ https://github.com/shaopx/VideoClipEditViewTest
 
 #Visiting WeChat trimmer & compressor video view
 https://github.com/cjiahuan/TrimmerVideoView
+
 # 其他控件
 包含多个自定义View的例子，从易到难【时钟、课程表】： 
 https://github.com/leavesC/CustomView
